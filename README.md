@@ -12,8 +12,11 @@ I am going to apply the acquired skills to store my code's history in Git and co
 Linux Survival course provides all the fundamentals of Linux. I am familiar with basic Linux commands. 
 New ones were: `man`, `ps` (with its option `aux`), `grep` and `|` symbol, which sends output to another program.
 `kill` command, which tells a process to die gracefully, and its option `-9`, which tells a process to die immediately, suprised me.
-The course helped me understand the important aspects of working with Linux that I will use in the future.
+The course helped me to understand important aspects of working with Linux, which I will use in the future.
 ![Screens](1.task_linux_cli/01.png "Quiz Number 1")
 ![Screens](1.task_linux_cli/02.png "Quiz Number 2")
 ![Screens](1.task_linux_cli/03.png "Quiz Number 3")
 ![Screens](1.task_linux_cli/04.png "Quiz Number 4")
+
+**HTTP articles** [(1)](https://code.tutsplus.com/tutorials/http-the-protocol-every-web-developer-must-know-part-1--net-31177?ec_unit=translation-info-language "HTTP: The Protocol Every Web Developer Must Know  - Part 1") and [(2)](https://code.tutsplus.com/tutorials/http-the-protocol-every-web-developer-must-know-part-2--net-31155?ec_unit=translation-info-language "HTTP: The Protocol Every Web Developer Must Know - Part 2") expanded my knowledge of the HTTP protocol.
+ 
