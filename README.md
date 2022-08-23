@@ -33,3 +33,26 @@ The course helped me to understand important aspects of working with Linux, whic
 [main](2.task_git_collaboration/2022-08-16_10-59-06.png)
  
 [remote](2.task_git_collaboration/2022-08-16_10-53-45.png)
+
+
+## Intro to HTML and CSS
+  * After listening modules 1 and 2 of the course **HTML, CSS, and Javascript for Web Developers** on Coursera I've apdated knowledge of HTML5 basics, like valid document structure, which elements can be included inside other elements and which can not, the meaning and usefulness of HTML5 semantic tags(semantic html element - is an element that implies some meaning to the content). 3 characters that should always be escaped in html: `<, >, & `, use instead: `&lt; &gt; &amp;`. `&nbsp; (non-breaking space)` - a space character that prevents an automatic line break at its position. And also, some advanced CSS3 concepts like floating and CSS rule conflict resolution, relative and absolute elements, the 'box model', background property. 
+  
+[week 1](task_html_css_intro/html-1.png)
+ 
+[week 2](task_html_css_intro/html-2.png)
+  * 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
